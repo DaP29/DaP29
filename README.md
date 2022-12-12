@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm a big Zumba fan.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/daria-popova-374a1468/</h3>
 <p align="left">
 </p>
 
