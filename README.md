@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **anything DS-related!**
 
-- 📫 How to reach me **https://www.linkedin.com/in/daria-popova-374a1468/**
-
 - ⚡ Fun fact **I'm a big Zumba fan.**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/daria-popova-374a1468/</h3>
