@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daria Popova</h1>
-<h3 align="center">A passionate Business PhD Candidate</h3>
+<h3 align="center">A passionate Business PhD </h3>
 
 - 🔭 I’m currently working on **building up my GitHub with data science projects.**
 
