@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daria </h1>
-<h3 align="center">A passionate Business PhD 📖</h3>
+<h3 align="center">A Business PhD researcher with a strong background in quantitative research and data analysis.   📖</h3>
 
 - 🔭 I’m currently working on **building up my GitHub with data science projects.**
 
