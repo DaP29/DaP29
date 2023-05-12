@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **artificial intellegence tools (AI) with Samsung Innovation Campus (SIC) (https://sic.edc.org/ai-course/)**
 
+- 🔬 My expertise includes **Python (NumPy, Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn, Requests, Beautiful Soup), Jupyter Notebooks, STATA, R, SQL, Excel, and Tableau. I excel in statistical modeling, machine learning, hypothesis testing, exploratory data analysis, panel data methods, and data mining.**
+
+- 🎓 Upon completion of my Ph.D. in 2023, I am eager to **transition to the exciting field of data science and analytics. I am seeking opportunities to apply my skills and knowledge to solve complex problems, drive business growth, and make data-driven decisions.**
+
 - 👯 I’m looking to collaborate on **data science projects.**
 
 - 💬 Ask me about **anything DS-related!**
