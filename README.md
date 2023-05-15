@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **data science projects.**
 
-- 💬 Ask me about **anything DS-related!**
-
 - ⚡ Fun fact **I'm a big Zumba fan.**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/daria-popova-374a1468/</h3>
