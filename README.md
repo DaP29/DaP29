@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building up my GitHub with data science projects.**
 
-- 🌱 I’m currently learning **artificial intellegence tools (AI) with Samsung Innovation Campus (SIC) (https://sic.edc.org/ai-course/)**
+- 🌱 I just graduates ( May 2023) from  **Artificial Intellegence program at Samsung Innovation Campus (SIC) (https://sic.edc.org/ai-course/)**
 
 - 🔬 My expertise includes **Python (NumPy, Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn, Requests, Beautiful Soup), Jupyter Notebooks, STATA, R, SQL, Excel, and Tableau. I excel in statistical modeling, machine learning, hypothesis testing, exploratory data analysis, panel data methods, and data mining.**
 
