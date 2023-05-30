@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daria </h1>
 <h3 align="center">A Business PhD researcher with a strong background in quantitative research and data analysis.   📖</h3>
 
-- 🔭 I’m currently working on **building up my GitHub with data science & analytics projects. Please check PG&E and Walkability_Index repos. **
+- 🔭 I’m currently working on **building up my GitHub with data science & analytics projects.** If you want to look at my current projects, please check **PG&E and Walkability_Index repos.**
 
 - 🌱 I just graduated (May 2023) from  **Artificial Intellegence program at Samsung Innovation Campus (SIC) (https://sic.edc.org/ai-course/)**
 
